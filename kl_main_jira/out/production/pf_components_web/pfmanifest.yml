@@ -1,0 +1,17 @@
+external-libraries:
+  - ashot-1.5.3.jar
+  - asm-3.1.jar
+  - cglib-2.2.2.jar
+  - dom4j-1.6.1.jar
+  - extentreports-2.41.2.jar
+  - freemarker-2.3.23.jar
+  - guava-25.0-jre.jar
+  - java-client-6.1.0.jar
+  - jcommander.jar
+  - json-20160810.jar
+  - poi-3.8.jar
+  - poi-ooxml-3.8.jar
+  - poi-ooxml-schemas-3.8.jar
+  - selenium-server-standalone-3.7.1.jar
+  - testng.jar
+  - xmlbeans-2.3.0.jar

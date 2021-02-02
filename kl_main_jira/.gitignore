@@ -1,0 +1,9 @@
+/bin
+/result
+/.settings
+/target
+/test-output
+/GIT*
+*.html
+*.json
+*.log

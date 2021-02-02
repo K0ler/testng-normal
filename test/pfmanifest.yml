@@ -1,0 +1,9 @@
+arguments:
+ param1
+ param2
+ assert
+ wait
+components:
+ kl_components
+libraries:
+ kl_main
